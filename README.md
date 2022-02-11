@@ -1,6 +1,6 @@
 # SALOR-MOON-WEB-PAGE
 
-I coded using CSS, HTML and JavaScript. As a new coding I wanted to do something fun and interesting for my first project. 
+I coded this project using CSS, HTML and JavaScript. As a new coding student I wanted to do something fun and interesting for my first project. 
 I'm a big Sailor Moon Can. Can you tell? 😅
 
 
