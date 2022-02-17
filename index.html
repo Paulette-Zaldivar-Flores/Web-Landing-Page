@@ -19,7 +19,9 @@
 
       border-radius: 10px;
     }
-
+    .header {
+      background-color: purple;
+    }
     h1 {
       text-align: center;
       color: #f48db4;
@@ -28,6 +30,7 @@
       border-radius: 30px;
       padding: 20px 20px;
       font-size: 50px;
+      box-shadow: 5px 5px 10px rgba(233, 153, 202, 0.877);
     }
 
     h4 {
@@ -92,21 +95,50 @@
       max-width: 800px;
       margin: 0 auto;
     }
-
+    .one {
+      text-align: center;
+    }
     .one:hover {
-      background: #ffb5b5;
+      background: hsl(0, 100%, 85%);
+    }
+    .love {
+      text-align: center;
+    }
+    .two {
+      text-align: center;
     }
     .two:hover {
       background: #f2910a;
     }
+    .beauty {
+      text-align: center;
+    }
+    .three {
+      text-align: center;
+    }
     .three:hover {
       background: #ff0000;
+    }
+    .passion {
+      text-align: center;
+    }
+    .four {
+      text-align: center;
     }
     .four:hover {
       background: #b6e1e0;
     }
+    .intelligence {
+      text-align: center;
+    }
+    .five {
+      text-align: center;
+    }
     .five:hover {
       background: #a1dd70;
+    }
+    .courage {
+      text-align: center;
     }
 
     button {
@@ -152,6 +184,13 @@
       margin: 20px 0 10px;
       text-align: justify;
     }
+
+    .description {
+      background-color: rgb(191, 224, 251);
+      border-radius: 6px;
+      padding: 10px 10px;
+      box-shadow: 5px 5px 10px rgba(233, 90, 233, 0.3);
+    }
   </style>
 
   <body>
@@ -162,7 +201,7 @@
         src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/022/767/original/Sailor_Senshi2.png?1639483036"
         alt="Sailor Moon"
       />
-      <p>
+      <p class="description">
         <strong>Sailor Moon </strong>is an a manga created and illustrated by
         Naoko Takeuchi from 1991 to 1997. Her manga was later adapted into an
         anime series produced by Toei Animation and broadcasted in Japan from
@@ -181,23 +220,28 @@
       <ul>
         <li class="one">
           <h3>Sailor Moon 🌙</h3>
-          <p>The guardian of love and justice.</p>
+          <p class="love">The guardian of love and justice.</p>
+          <img src="images/moon.jpeg" width=" 450" height="300" />
         </li>
         <li class="two">
           <h4>Sailor Venus 🧡</h4>
-          <p>The guardian of love and beauty.</p>
+          <p class="beauty">The guardian of love and beauty.</p>
+          <img src="images/venus.jpeg" width=" 350" height="300" />
         </li>
         <li class="three">
           <h5>Sailor Mars 🔥</h5>
-          <p>The guardian of love and passion.</p>
+          <p class="passion">The guardian of love and passion.</p>
+          <img src="images/mars.jpeg" width=" 350" height="300" />
         </li>
         <li class="four">
           <h6>Sailor Mercury 🌊</h6>
-          <p>The guardian of love and intelligence.</p>
+          <p class="intelligence">The guardian of love and intelligence.</p>
+          <img src="images/mercury.png" width=" 350" height="300" />
         </li>
         <li class="five">
           <h7>Sailor Jupiter ⚡️</h7>
-          <p>The guardian of love and courage.</p>
+          <p class="courage">The guardian of love and courage.</p>
+          <img src="images/jupiter.jpeg" width=" 350" height="300" />
         </li>
       </ul>
       <div class="together">
