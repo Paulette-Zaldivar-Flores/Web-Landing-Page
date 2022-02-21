@@ -1,10 +1,26 @@
+html {
+  background-color: rgb(248, 220, 225);
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  background-image: url ("../images/galaxy.jpg");
+  background-size: 60% auto;
+}
+body {
+  border-radius: 10px;
+  border: 5px solid #f33e75;
+  font-family: "Literata", serif;
+}
+
 .header {
   background-color: purple;
 }
 h1 {
   text-align: center;
   color: #f48db4;
-  font-weight: bold;
+
   border: 5px solid #fcdee7;
   border-radius: 30px;
   padding: 20px 20px;
@@ -70,8 +86,15 @@ img {
 
 p {
   line-height: 1.5;
-  font-size: 15px;
-  margin: 20px 0 10px;
+  font-size: 20px;
+
+  width: 100%;
+}
+.description {
+  background-color: rgb(191, 224, 251);
+  border-radius: 6px;
+  padding: 10px 10px;
+  box-shadow: 5px 5px 10px rgba(233, 90, 233, 0.3);
   text-align: justify;
 }
 li {
@@ -155,7 +178,7 @@ button:hover {
 }
 
 .learn-more {
-  color: #c4c1e0;
+  color: rgb(224, 86, 224);
   text-decoration: none;
   font-size: 20px;
   text-align: center;
@@ -167,10 +190,10 @@ button:hover {
 
 .footer {
   text-align: center;
-  color: #a1dd70;
+  color: #5c075f;
   text-decoration: none;
-  color: #c4c1e0;
-  font-size: 12px;
+
+  font-size: 14px;
 }
 
 .together {
@@ -178,12 +201,5 @@ button:hover {
   font-size: 15px;
   margin: 20px 0 10px;
   text-align: justify;
-  color: #fcdee7;
-}
-
-.description {
-  background-color: rgb(191, 224, 251);
-  border-radius: 6px;
-  padding: 10px 10px;
-  box-shadow: 5px 5px 10px rgba(233, 90, 233, 0.3);
+  color: rgb(0, 0, 0);
 }
