@@ -85,10 +85,6 @@ Created by [@Void321](https://pzf.netlify.app/) - feel free to contact me!
 
 
 
-I developed this web page with CSS, HTML and JavaScript. As a new coding student I wanted to do something fun and interesting for my first project. 
-I'm a big Sailor Moon Can. Can you tell? 😅
 
-
-# Preview
 
 
