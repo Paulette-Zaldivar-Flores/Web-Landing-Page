@@ -21,7 +21,7 @@
 <ul>
   <li>HTML</li>
   <li>CSS</li>
-  <li>JavaScript></ul>
+  <li>JavaScript</li></ul>
 
 
 ## Features
@@ -50,9 +50,9 @@ List the ready features here:
 
 To do:
 <ul>
-  <li>Add intercative background</li>
-  <li>Menu Bar</li>
-  <li>More Character Info<li><ul>
+  <li>Add interactive background</li>
+  <li>Menu bar</li>
+  <li>More character info<li><ul>
 
 
 ## Acknowledgements
