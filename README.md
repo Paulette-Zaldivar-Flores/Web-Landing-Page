@@ -1,6 +1,6 @@
 # Sailor Moon 🌙 Web Page
 > A web landing page for Sailor Moon
-> Live demo [_here_](https://void321.github.io/Web-Landing-Page/).
+> Live demo [_here_](https://paulette-zaldivar-flores.github.io/Web-Landing-Page/).
 
 ## Table of Contents
 * [General Info](#general-information)
